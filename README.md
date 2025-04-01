@@ -42,8 +42,4 @@ Run the main application script:
 python main.py
 ```
 
-Follow the on-screen instructions to download YouTube videos by pasting the video URL and selecting the preferred resolution.
 
-## License
-
-This project is licensed under the MIT License.
