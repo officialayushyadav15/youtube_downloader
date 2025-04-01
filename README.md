@@ -42,4 +42,11 @@ Run the main application script:
 python main.py
 ```
 
+## Output
+
+Below is a screenshot of the application in action:
+
+![YouTube Video Downloader UI](Screenshot 2025-04-01 234439.png)
+
+
 
