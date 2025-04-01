@@ -46,7 +46,7 @@ python main.py
 
 Below is a screenshot of the application in action:
 
-![YouTube Video Downloader UI](Screenshot 2025-04-01 234439.png)
+![YouTube Video Downloader UI](Screenshot.png)
 
 
 
